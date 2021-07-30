@@ -1,6 +1,6 @@
 ---
 name: Bug (linked with JIRA)
-about: Bug report that automatically links our JIRA
+about: Bug report that automatically links to our JIRA
 title: ''
 labels: jira
 assignees: ''
